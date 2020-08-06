@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b950d3b-4368-4766-81ef-399c4ef6ac98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java Project\repository" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJVdxjdxyz5nomHMI6BjdXdFvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RPC_V4-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ClientStart">
+    <configuration name="ClientStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.ClientStart" />
+      <module name="MyRPC_Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.ServerStart" />
+      <module name="MyRPC_Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientStart" />
+        <item itemvalue="Application.ServerStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b950d3b-4368-4766-81ef-399c4ef6ac98" name="Default Changelist" comment="" />
+      <created>1594039773379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594039773379</updated>
+      <workItem from="1594039775871" duration="306000" />
+      <workItem from="1594040285381" duration="1807000" />
+      <workItem from="1594042535020" duration="5000" />
+      <workItem from="1594045194176" duration="7543000" />
+      <workItem from="1594103024598" duration="4380000" />
+      <workItem from="1594108257780" duration="26000" />
+      <workItem from="1594108415148" duration="6281000" />
+      <workItem from="1594702213536" duration="763000" />
+      <workItem from="1596462495851" duration="1398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594040424385">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1594040424385" />
+    <state x="539" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1594106005759">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="539" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1594106005759" />
+    <state x="424" y="266" width="431" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596462711547">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="424" y="266" width="431" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.760@0.0.1280.760" timestamp="1596462711547" />
+    <state x="372" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594107327710">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="372" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1594107327710" />
+    <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1594110565451">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1594110565451" />
+    <state width="1224" height="234" key="GridCell.Tab.0.bottom" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state width="1224" height="234" key="GridCell.Tab.0.center" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state width="1224" height="234" key="GridCell.Tab.0.left" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state width="1224" height="234" key="GridCell.Tab.0.right" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state width="1224" height="234" key="GridCell.Tab.1.bottom" timestamp="1594125865679">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1594125865679" />
+    <state width="1224" height="234" key="GridCell.Tab.1.center" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state width="1224" height="234" key="GridCell.Tab.1.left" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state width="1224" height="234" key="GridCell.Tab.1.right" timestamp="1594125865678">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1224" height="234" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1594125865678" />
+    <state x="122" y="0" key="SettingsEditor" timestamp="1594040449757">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="122" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1594040449757" />
+    <state x="7" y="76" key="new project wizard" timestamp="1594110549586">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="7" y="76" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1594110549586" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server/ServerHandler.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
