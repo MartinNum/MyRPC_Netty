@@ -1,4 +1,4 @@
-package Proxy;
+package Client.proxy;
 
 import Bean.Request;
 import Bean.Response;

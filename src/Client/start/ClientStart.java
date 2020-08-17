@@ -1,7 +1,7 @@
-package main;
+package Client.start;
 
 import java.lang.reflect.Proxy;
-import Proxy.MyInvokerHandler;
+import Client.proxy.MyInvokerHandler;
 import RPC_Server.HelloService;
 
 public class ClientStart {
